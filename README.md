@@ -13,35 +13,11 @@ For a detailed report of the project refer to this report [Report](Final%20Repor
 
 Below are links to the demo videos of the project:
 
-#### Final Algos comparision
-<video width="600" controls>
-  <source src="Demo/Final.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### Los Angeles
-<video width="600" controls>
-  <source src="Demo/los_angeles.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### Nascar
-<video width="600" controls>
-  <source src="Demo/nascar.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### Soccer_01
-<video width="600" controls>
-  <source src="Demo/soccer_01.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### Soccer_02
-<video width="600" controls>
-  <source src="Demo/soccer_02.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+- [Final Algos Comparison](https://github.com/adibakshi28/Multiple_Object_Tracking-OpenCV/raw/main/Demo/Final.mp4)
+- [Los Angeles](https://github.com/adibakshi28/Multiple_Object_Tracking-OpenCV/raw/main/Demo/los_angeles.mp4)
+- [Nascar](https://github.com/adibakshi28/Multiple_Object_Tracking-OpenCV/raw/main/Demo/nascar.mp4)
+- [Soccer_01](https://github.com/adibakshi28/Multiple_Object_Tracking-OpenCV/raw/main/Demo/soccer_01.mp4)
+- [Soccer_02](https://github.com/adibakshi28/Multiple_Object_Tracking-OpenCV/raw/main/Demo/soccer_02.mp4)
 
 ## Features
 
